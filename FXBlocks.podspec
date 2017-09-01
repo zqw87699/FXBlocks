@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FXBlocks"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "Delegate转Block"
 
   s.homepage     = "https://github.com/zqw87699/FXBlocks"
@@ -22,7 +22,5 @@ Pod::Spec.new do |s|
   s.module_name = 'FXBlocks' 
 
   s.requires_arc = true
-
-  s.dependency 'FXCommon'
 
 end
